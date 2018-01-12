@@ -33,3 +33,7 @@ You should create an array of numbers in a Javascript file, if there isn't one. 
 ### Task 8 - Patrick
 
 You should edit five CSS properties.
+
+### Task 9 - Carolyn
+
+You should remove a file other than index.html.
