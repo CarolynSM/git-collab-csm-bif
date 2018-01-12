@@ -17,3 +17,11 @@ You should create an array of numbers in a Javascript file, if there isn't one. 
 ### Task 4 - Patrick
 
 You should edit an HTML file. Add a paragraph about something you like.
+
+### Task 5 - Carolyn
+
+You should edit five CSS properties.
+
+### Task 6 - Patrick
+
+You should create an array of objects. Each object should have a name and age.
